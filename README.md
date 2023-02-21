@@ -19,7 +19,7 @@ beautifyImages({
 
 ## options
 
-shadowing supports two options :
+beautifyImages supports two options :
 
 * *shadow_type* - _hard | soft_ (Defaults to 'soft')
 * *padding* - _boolean_ (Defaults to false)
